@@ -18,6 +18,7 @@
   "homepage": "https://github.com/88Denis/Food-dist#readme",
   "devDependencies": {
     "i": "^0.3.7",
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "webpack-cli": "^4.9.2"
   }
 }
